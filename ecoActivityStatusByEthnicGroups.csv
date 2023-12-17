@@ -1,0 +1,43 @@
+Lower tier local authorities Code,Lower tier local authorities,Economic activity status (7 categories) Code,Economic activity status (7 categories),Ethnic group (6 categories) Code,Ethnic group (6 categories),Observation
+E09000001,City of London,-8,Does not apply,-8,Does not apply,0
+E09000001,City of London,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",96
+E09000001,City of London,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",25
+E09000001,City of London,-8,Does not apply,3,Mixed or Multiple ethnic groups,112
+E09000001,City of London,-8,Does not apply,4,White,307
+E09000001,City of London,-8,Does not apply,5,Other ethnic group,41
+E09000001,City of London,1,Economically active (excluding full-time students): In employment,-8,Does not apply,0
+E09000001,City of London,1,Economically active (excluding full-time students): In employment,1,"Asian, Asian British or Asian Welsh",833
+E09000001,City of London,1,Economically active (excluding full-time students): In employment,2,"Black, Black British, Black Welsh, Caribbean or African",106
+E09000001,City of London,1,Economically active (excluding full-time students): In employment,3,Mixed or Multiple ethnic groups,244
+E09000001,City of London,1,Economically active (excluding full-time students): In employment,4,White,3820
+E09000001,City of London,1,Economically active (excluding full-time students): In employment,5,Other ethnic group,270
+E09000001,City of London,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,-8,Does not apply,0
+E09000001,City of London,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1,"Asian, Asian British or Asian Welsh",52
+E09000001,City of London,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,2,"Black, Black British, Black Welsh, Caribbean or African",15
+E09000001,City of London,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,3,Mixed or Multiple ethnic groups,16
+E09000001,City of London,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,4,White,177
+E09000001,City of London,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,5,Other ethnic group,21
+E09000001,City of London,3,Economically active and a full-time student: In employment,-8,Does not apply,0
+E09000001,City of London,3,Economically active and a full-time student: In employment,1,"Asian, Asian British or Asian Welsh",15
+E09000001,City of London,3,Economically active and a full-time student: In employment,2,"Black, Black British, Black Welsh, Caribbean or African",4
+E09000001,City of London,3,Economically active and a full-time student: In employment,3,Mixed or Multiple ethnic groups,11
+E09000001,City of London,3,Economically active and a full-time student: In employment,4,White,45
+E09000001,City of London,3,Economically active and a full-time student: In employment,5,Other ethnic group,5
+E09000001,City of London,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,-8,Does not apply,0
+E09000001,City of London,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1,"Asian, Asian British or Asian Welsh",13
+E09000001,City of London,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,2,"Black, Black British, Black Welsh, Caribbean or African",6
+E09000001,City of London,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,3,Mixed or Multiple ethnic groups,1
+E09000001,City of London,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,4,White,17
+E09000001,City of London,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,5,Other ethnic group,7
+E09000001,City of London,5,Economically inactive (excluding full-time students),-8,Does not apply,0
+E09000001,City of London,5,Economically inactive (excluding full-time students),1,"Asian, Asian British or Asian Welsh",197
+E09000001,City of London,5,Economically inactive (excluding full-time students),2,"Black, Black British, Black Welsh, Caribbean or African",46
+E09000001,City of London,5,Economically inactive (excluding full-time students),3,Mixed or Multiple ethnic groups,33
+E09000001,City of London,5,Economically inactive (excluding full-time students),4,White,1243
+E09000001,City of London,5,Economically inactive (excluding full-time students),5,Other ethnic group,86
+E09000001,City of London,6,Economically inactive and a full-time student,-8,Does not apply,0
+E09000001,City of London,6,Economically inactive and a full-time student,1,"Asian, Asian British or Asian Welsh",237
+E09000001,City of London,6,Economically inactive and a full-time student,2,"Black, Black British, Black Welsh, Caribbean or African",30
+E09000001,City of London,6,Economically inactive and a full-time student,3,Mixed or Multiple ethnic groups,52
+E09000001,City of London,6,Economically inactive and a full-time student,4,White,346
+E09000001,City of London,6,Economically inactive and a full-time student,5,Other ethnic group,55
